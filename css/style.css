@@ -1,0 +1,38 @@
+body {
+  margin-top: 90px; }
+
+.navbar {
+  box-shadow: 2px 2px 5px #469DAF;
+  background-color: white;
+  opacity: 0.9; }
+  .navbar .navbar-nav {
+    margin-left: auto; }
+    .navbar .navbar-nav .nav-link {
+      font-size: 22px;
+      color: black;
+      margin-right: 20px; }
+    .navbar .navbar-nav .nav-link:hover {
+      font-size: 22px;
+      color: #469DAF;
+      margin-right: 20px; }
+
+#hero {
+  background-image: url(../img/mountains.jpg); }
+  #hero .hero-overly {
+    background-color: rgba(0, 0, 255, 0.699); }
+
+.arfin {
+  display: block;
+  width: 100%; }
+
+#testimonial-card img {
+  margin-top: -70px; }
+
+#testimonial-card .card:hover {
+  background-color: blue;
+  color: white; }
+  #testimonial-card .card:hover i {
+    color: white; }
+
+#contract .btn {
+  display: block; }
